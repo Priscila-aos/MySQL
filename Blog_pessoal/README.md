@@ -4,7 +4,7 @@
 
 Esse link mostrará o DER -> https://dbdesigner.page.link/1n2dVUKgcoruUbNT9
 
-Link para o PDF -> 
+Link para o PDF -> https://github.com/Priscila-aos/MySQL/blob/main/Blog_pessoal/Blog%20pessoal-dbdesigner.pdf
 
 ## 2) Dicionário de dados
 
@@ -137,7 +137,7 @@ Link para o PDF ->
 ## 3) DER do Blog Pessoal 
 
  
- <img src = ""> </img>
+ <img src = "https://github.com/Priscila-aos/MySQL/blob/main/Blog_pessoal/DER.png"> </img> 
       
 
 ## 4) Código em SQL 
